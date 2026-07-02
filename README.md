@@ -24,15 +24,6 @@ la sección `/utils-helpers/` de [oprobots.org](https://oprobots.org/).
 - [Google Charts](https://developers.google.com/chart) (solo en Turn Profiles Generator)
 - Google Fonts, Font Awesome, ScrollReveal (CDN)
 
-## Desarrollo
-
-Para desarrollar localmente, simplemente abre los archivos HTML en tu navegador
-o sirve el directorio con cualquier servidor HTTP estático:
-
-```bash
-python3 -m http.server 8000
-```
-
 ## Licencia
 
 Este proyecto está bajo la licencia [PolyForm Noncommercial 1.0.0](./LICENSE).
